@@ -28,7 +28,7 @@ I'm a passionate software developer and researcher with expertise in Java, Pytho
 ![Vinod's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinod-hn&show_icons=true&theme=radical)
 ## 🤝 Let's Connect!
 - 💼 **LinkedIn**: [Connect with me](https://www.linkedin.com/in/vinod-h-n)
-- 📧 **Email**: [vinod.hn@example.com](mailto:vinod.hn@example.com)
+- 📧 **Email**: [vinod.hn1611@gmail.com](mailto:vinod.hn1611@gmail.com)
 - 🐛 **GitHub**: You're already here!
 - 💬 **Discord**: vinod_hn#1234
 ## 💭 Current Focus
@@ -38,7 +38,6 @@ I'm a passionate software developer and researcher with expertise in Java, Pytho
 - 💬 Ask me about Java, Python, AI, or any tech-related topics
 ---
 > ⭐ "Code is like humor. When you have to explain it, it's bad." - Cory House
-
 ![Profile Views](https://komarev.com/ghpvc/?username=vinod-hn&color=blueviolet)
 
 Thank you for visiting my profile! Feel free to reach out for collaborations or just to say hi! 😊
